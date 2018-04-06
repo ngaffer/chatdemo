@@ -11,6 +11,7 @@
         "assets",
         "favicon.ico"
       ],
+      "indextemp": "../views/index.hbs",
       "index": "index.html",
       "main": "main.ts",
       "polyfills": "polyfills.ts",
@@ -27,7 +28,6 @@
           "./assets/scss/"
         ]
       },
-
       "scripts": [],
       "environmentSource": "environments/environment.ts",
       "environments": {
